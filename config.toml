@@ -1,9 +1,9 @@
 title = "Notre-Dame de Paris"
-baseURL = "http://welder-rhinoceros-81317.netlify.com"
+baseURL = "http://welder-rhinoceros-81317.netlify.com/"
 #relativeURLS = "true"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = "themes/"
+#themesDir = "themes/"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
